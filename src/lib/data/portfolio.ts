@@ -190,19 +190,19 @@ export const certifications: Certification[] = [
 		name: 'CompTIA A+',
 		issuer: 'CompTIA',
 		year: '2025',
-		link: 'https://www.credly.com/earner/earned/badge/5065cc75-ee46-4293-8114-71d01edde026'
+		link: 'https://www.credly.com/badges/5065cc75-ee46-4293-8114-71d01edde026/public_url'
 	},
 	{
 		name: 'CompTIA Network+',
 		issuer: 'CompTIA',
 		year: '2025',
-		link: 'https://www.credly.com/earner/earned/badge/21b127bf-cb2a-4bdc-879b-4cf3e16567d2'
+		link: 'https://www.credly.com/badges/21b127bf-cb2a-4bdc-879b-4cf3e16567d2/public_url'
 	},
 	{
 		name: 'CompTIA Security+',
 		issuer: 'CompTIA',
 		year: '2025',
-		link: 'https://www.credly.com/earner/earned/badge/fc997cb4-06b6-44c8-8ca1-f15973e5bb55'
+		link: 'https://www.credly.com/badges/fc997cb4-06b6-44c8-8ca1-f15973e5bb55/public_url'
 	},
 	{ name: 'CCNA', issuer: 'Cisco', year: 'In progress' }
 ];
